@@ -9,7 +9,7 @@ public class Majorityelement {
                (list.size()==2 && list.get(0)!=arr[i] && list.get(1)!=arr[i])){
                 int count =0;
                 for(int j=0;j<n;j++){
-                    if(arr[i]==arr[j]){
+                    if(arr[i]==arr[j]){l
                         count++;
                     }
                 }
